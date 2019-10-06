@@ -1,6 +1,6 @@
 # Deep Learning Universtiy Assignment Solutions
 
-These are my solutions of the homework assignments from the course 'Deep Learning in practice with python'. This includes the 5 smaller projects that were optional but in the end almost as useful in the learning process as the rest of the course. Please understand that these are some of the first codes I've written for deep learning as such they may contain errors, bad practices and techniques that are simply obsolete at this point. The aim of these projects were to learn the basics of deep learning and its frameworks in Python.
+These are my solutions of the homework assignments from the course 'Deep Learning in practice with python'. This includes the 5 smaller projects that were optional but in the end almost as useful in the learning process as the rest of the course. Please understand that these are some of the first codes I've written for deep learning as such they may contain errors, bad practices and techniques that are simply obsolete at this point. The aim of these projects was to learn about the basics of deep learning and its popular frameworks in Python.
 
 ## Getting Started
 
